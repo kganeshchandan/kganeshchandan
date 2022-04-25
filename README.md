@@ -1,5 +1,5 @@
 ### Hi there 👋
-You may want to visit ![this](https://kganeshchandan.github.io/) to know about me 💬.
+You may want to visit [this](https://kganeshchandan.github.io/) to know about me 💬.
 
 ![](https://github.com/kganeshchandan/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/kganeshchandan/github-stats/blob/master/generated/languages.svg)
